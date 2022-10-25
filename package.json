@@ -1,0 +1,16 @@
+{
+  "name": "webhuay100",
+  "theme": "syntax",
+  "version": "1.0.1",
+  "description": "เว็บหวย จ่าย บาทละ 100 สมัครฟรี การันตีคุณภาพ",
+  "keywords": [
+    "เว็บหวย จ่าย บาทละ 100",
+    "เว็บหวย",
+    "เว็บหวยบาทละ 100"
+  ],
+  "repository": "https://github.com/earthza550/webhuaybatla100",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
